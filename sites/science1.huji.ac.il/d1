@@ -1,0 +1,43 @@
+ entity_type |  bundle  | deleted | entity_id | revision_id | language | delta | field_duty_tid 
+-------------+----------+---------+-----------+-------------+----------+-------+----------------
+ node        | ppl_duty |       0 |       720 |         720 | und      |     0 |            143
+ node        | ppl_duty |       0 |       724 |         724 | und      |     0 |             87
+ node        | ppl_duty |       0 |       725 |         725 | und      |     0 |            103
+ node        | ppl_duty |       0 |       731 |         731 | und      |     0 |            160
+ node        | ppl_duty |       0 |       733 |         733 | und      |     0 |            165
+ node        | ppl_duty |       0 |       741 |         741 | und      |     0 |            165
+ node        | ppl_duty |       0 |       742 |         742 | und      |     0 |            165
+ node        | ppl_duty |       0 |       743 |         743 | und      |     0 |            165
+ node        | ppl_duty |       0 |       744 |         744 | und      |     0 |            165
+ node        | ppl_duty |       0 |       745 |         745 | und      |     0 |            165
+ node        | ppl_duty |       0 |       746 |         746 | und      |     0 |            165
+ node        | ppl_duty |       0 |       752 |         752 | und      |     0 |            165
+ node        | ppl_duty |       0 |       753 |         753 | und      |     0 |            165
+ node        | ppl_duty |       0 |       754 |         754 | und      |     0 |            165
+ node        | ppl_duty |       0 |       755 |         755 | und      |     0 |             55
+ node        | ppl_duty |       0 |       756 |         756 | und      |     0 |            367
+ node        | ppl_duty |       0 |       757 |         757 | und      |     0 |            165
+ node        | ppl_duty |       0 |       758 |         758 | und      |     0 |            165
+ node        | ppl_duty |       0 |       759 |         759 | und      |     0 |            360
+ node        | ppl_duty |       0 |       760 |         760 | und      |     0 |            367
+ node        | ppl_duty |       0 |       769 |         769 | und      |     0 |            382
+ node        | ppl_duty |       0 |       786 |         786 | und      |     0 |            288
+ node        | ppl_duty |       0 |       787 |         787 | und      |     0 |            262
+ node        | ppl_duty |       0 |       789 |         789 | und      |     0 |            393
+ node        | ppl_duty |       0 |       791 |         791 | und      |     0 |            178
+ node        | ppl_duty |       0 |       792 |         792 | und      |     0 |            165
+ node        | ppl_duty |       0 |       793 |         793 | und      |     0 |            165
+ node        | ppl_duty |       0 |       794 |         794 | und      |     0 |            262
+ node        | ppl_duty |       0 |       796 |         796 | und      |     0 |            165
+ node        | ppl_duty |       0 |       797 |         797 | und      |     0 |            165
+ node        | ppl_duty |       0 |       798 |         798 | und      |     0 |            165
+ node        | ppl_duty |       0 |       800 |         800 | und      |     0 |            165
+ node        | ppl_duty |       0 |       801 |         801 | und      |     0 |            165
+ node        | ppl_duty |       0 |       802 |         802 | und      |     0 |            165
+ node        | ppl_duty |       0 |       803 |         803 | und      |     0 |            165
+ node        | ppl_duty |       0 |       805 |         805 | und      |     0 |            165
+ node        | ppl_duty |       0 |       807 |         807 | und      |     0 |            165
+ node        | ppl_duty |       0 |       809 |         809 | und      |     0 |            165
+ node        | ppl_duty |       0 |       810 |         810 | und      |     0 |            165
+(39 rows)
+

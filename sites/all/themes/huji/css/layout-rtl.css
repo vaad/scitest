@@ -1,0 +1,21 @@
+.region-header {
+				float: left;
+}
+
+.region-sidebar-menu {
+	float: left;
+}
+
+.node .row {
+}
+
+.node .column {
+				float: right;
+				width: 47%;
+}
+
+#content, #sidebar-first, #sidebar-second, .region-sidebar-carousel, .region-triptych-first, 
+  .region-triptych-middle, .region-triptych-last, .region-footer-firstcolumn, .region-footer-secondcolumn, 
+	.region-footer-thirdcolumn, .region-footer-fourthcolumn {
+	float: right;
+}

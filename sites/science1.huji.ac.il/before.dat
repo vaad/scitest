@@ -1,0 +1,775 @@
+           ?column?           | cnt 
+------------------------------+-----
+ field_data_field_attribution |  73
+(1 row)
+
+             ?column?             | cnt 
+----------------------------------+-----
+ field_revision_field_attribution |  73
+(1 row)
+
+   ?column?   | cnt 
+--------------+-----
+ date_formats |  35
+(1 row)
+
+      ?column?      | cnt 
+--------------------+-----
+ date_format_locale |   0
+(1 row)
+
+ ?column? | cnt 
+----------+-----
+ variable | 215
+(1 row)
+
+ ?column? | cnt 
+----------+-----
+ actions  |  12
+(1 row)
+
+ ?column? | cnt 
+----------+-----
+ batch    |   0
+(1 row)
+
+  ?column?   | cnt 
+-------------+-----
+ blocked_ips |   0
+(1 row)
+
+ ?column? | cnt 
+----------+-----
+ eli      | 261
+(1 row)
+
+          ?column?          | cnt 
+----------------------------+-----
+ field_data_field_disp_side |  14
+(1 row)
+
+ ?column? | cnt 
+----------+-----
+ cache    |  26
+(1 row)
+
+  ?column?  | cnt 
+------------+-----
+ cache_form |  18
+(1 row)
+
+     ?column?     | cnt 
+------------------+-----
+ date_format_type |   3
+(1 row)
+
+   ?column?   | cnt 
+--------------+-----
+ file_managed |  12
+(1 row)
+
+  ?column?  | cnt 
+------------+-----
+ file_usage |  12
+(1 row)
+
+ ?column? | cnt 
+----------+-----
+ flood    |   0
+(1 row)
+
+   ?column?   | cnt 
+--------------+-----
+ job_schedule |   3
+(1 row)
+
+  ?column?  | cnt 
+------------+-----
+ menu_links | 416
+(1 row)
+
+ ?column? | cnt 
+----------+-----
+ queue    |   3
+(1 row)
+
+ ?column? | cnt 
+----------+-----
+ registry | 909
+(1 row)
+
+   ?column?    | cnt 
+---------------+-----
+ registry_file | 528
+(1 row)
+
+  ?column?  | cnt 
+------------+-----
+ cache_menu | 102
+(1 row)
+
+ ?column?  | cnt 
+-----------+-----
+ semaphore |   0
+(1 row)
+
+ ?column?  | cnt 
+-----------+-----
+ sequences |   0
+(1 row)
+
+ ?column? | cnt 
+----------+-----
+ sessions |   7
+(1 row)
+
+ ?column? | cnt 
+----------+-----
+ system   | 181
+(1 row)
+
+ ?column?  | cnt 
+-----------+-----
+ url_alias |   5
+(1 row)
+
+ ?column? | cnt 
+----------+-----
+ authmap  |   0
+(1 row)
+
+    ?column?     | cnt 
+-----------------+-----
+ role_permission | 225
+(1 row)
+
+ ?column? | cnt 
+----------+-----
+ role     |   5
+(1 row)
+
+ ?column? | cnt 
+----------+-----
+ users    |   8
+(1 row)
+
+  ?column?   | cnt 
+-------------+-----
+ users_roles |  10
+(1 row)
+
+ ?column? | cnt 
+----------+-----
+ node     | 277
+(1 row)
+
+  ?column?   | cnt 
+-------------+-----
+ node_access |   1
+(1 row)
+
+   ?column?    | cnt 
+---------------+-----
+ node_revision | 277
+(1 row)
+
+ ?column?  | cnt 
+-----------+-----
+ node_type |  10
+(1 row)
+
+    ?column?     | cnt 
+-----------------+-----
+ block_node_type |   4
+(1 row)
+
+ ?column? | cnt 
+----------+-----
+ history  | 117
+(1 row)
+
+ ?column? | cnt 
+----------+-----
+ filter   |  29
+(1 row)
+
+   ?column?    | cnt 
+---------------+-----
+ filter_format |   5
+(1 row)
+
+   ?column?   | cnt 
+--------------+-----
+ field_config |  30
+(1 row)
+
+       ?column?        | cnt 
+-----------------------+-----
+ field_config_instance |  48
+(1 row)
+
+ ?column? | cnt 
+----------+-----
+ block    | 139
+(1 row)
+
+  ?column?  | cnt 
+------------+-----
+ block_role |   0
+(1 row)
+
+   ?column?   | cnt 
+--------------+-----
+ block_custom |   7
+(1 row)
+
+   ?column?   | cnt 
+--------------+-----
+ cache_filter |   1
+(1 row)
+
+    ?column?    | cnt 
+----------------+-----
+ feeds_importer |   2
+(1 row)
+
+ ?column? | cnt 
+----------+-----
+ comment  |   0
+(1 row)
+
+        ?column?         | cnt 
+-------------------------+-----
+ node_comment_statistics | 277
+(1 row)
+
+ ?column? | cnt  
+----------+------
+ watchdog | 1017
+(1 row)
+
+      ?column?      | cnt 
+--------------------+-----
+ taxonomy_term_data | 164
+(1 row)
+
+        ?column?         | cnt 
+-------------------------+-----
+ taxonomy_term_hierarchy | 375
+(1 row)
+
+      ?column?       | cnt 
+---------------------+-----
+ taxonomy_vocabulary |   8
+(1 row)
+
+    ?column?    | cnt 
+----------------+-----
+ taxonomy_index | 173
+(1 row)
+
+   ?column?   | cnt 
+--------------+-----
+ image_styles |   0
+(1 row)
+
+   ?column?    | cnt 
+---------------+-----
+ image_effects |   0
+(1 row)
+
+ ?column?  | cnt 
+-----------+-----
+ languages |   2
+(1 row)
+
+    ?column?    | cnt  
+----------------+------
+ locales_source | 7279
+(1 row)
+
+  ?column?   | cnt 
+-------------+-----
+ cache_image |   0
+(1 row)
+
+   ?column?   | cnt 
+--------------+-----
+ feeds_source |   4
+(1 row)
+
+  ?column?   | cnt 
+-------------+-----
+ menu_custom |   6
+(1 row)
+
+  ?column?   | cnt 
+-------------+-----
+ menu_router | 468
+(1 row)
+
+    ?column?    | cnt  
+----------------+------
+ locales_target | 4357
+(1 row)
+
+  ?column?  | cnt 
+------------+-----
+ feeds_item | 527
+(1 row)
+
+      ?column?       | cnt 
+---------------------+-----
+ l10n_update_project |  21
+(1 row)
+
+    ?column?    | cnt 
+----------------+-----
+ search_dataset | 267
+(1 row)
+
+   ?column?   | cnt  
+--------------+------
+ search_index | 2413
+(1 row)
+
+   ?column?   | cnt  
+--------------+------
+ search_total | 1320
+(1 row)
+
+     ?column?      | cnt 
+-------------------+-----
+ search_node_links |   0
+(1 row)
+
+   ?column?   | cnt 
+--------------+-----
+ shortcut_set |   1
+(1 row)
+
+      ?column?      | cnt 
+--------------------+-----
+ shortcut_set_users |   0
+(1 row)
+
+  ?column?   | cnt 
+-------------+-----
+ rdf_mapping |   2
+(1 row)
+
+     ?column?     | cnt 
+------------------+-----
+ l10n_update_file |  20
+(1 row)
+
+     ?column?      | cnt 
+-------------------+-----
+ cache_l10n_update |   2
+(1 row)
+
+        ?column?         | cnt 
+-------------------------+-----
+ field_data_comment_body |   0
+(1 row)
+
+          ?column?           | cnt 
+-----------------------------+-----
+ field_revision_comment_body |   0
+(1 row)
+
+    ?column?     | cnt 
+-----------------+-----
+ field_data_body |   7
+(1 row)
+
+      ?column?       | cnt 
+---------------------+-----
+ field_revision_body |   7
+(1 row)
+
+          ?column?          | cnt 
+----------------------------+-----
+ field_revision_field_image |   5
+(1 row)
+
+        ?column?        | cnt 
+------------------------+-----
+ field_data_field_image |   5
+(1 row)
+
+       ?column?        | cnt 
+-----------------------+-----
+ field_data_field_tags |   0
+(1 row)
+
+         ?column?          | cnt 
+---------------------------+-----
+ field_revision_field_tags |   0
+(1 row)
+
+         ?column?         | cnt 
+--------------------------+-----
+ feeds_push_subscriptions |   0
+(1 row)
+
+   ?column?   | cnt 
+--------------+-----
+ cache_update |  25
+(1 row)
+
+     ?column?     | cnt 
+------------------+-----
+ cache_views_data |   0
+(1 row)
+
+      ?column?       | cnt 
+---------------------+-----
+ ctools_object_cache |   0
+(1 row)
+
+     ?column?     | cnt 
+------------------+-----
+ ctools_css_cache |   0
+(1 row)
+
+  ?column?  | cnt 
+------------+-----
+ views_view |  10
+(1 row)
+
+   ?column?    | cnt 
+---------------+-----
+ views_display |  21
+(1 row)
+
+ ?column?  | cnt 
+-----------+-----
+ feeds_log | 120
+(1 row)
+
+   ?column?   | cnt 
+--------------+-----
+ rules_config |   2
+(1 row)
+
+   ?column?    | cnt 
+---------------+-----
+ rules_trigger |   2
+(1 row)
+
+  ?column?  | cnt 
+------------+-----
+ rules_tags |   0
+(1 row)
+
+      ?column?      | cnt 
+--------------------+-----
+ rules_dependencies |   2
+(1 row)
+
+             ?column?             | cnt 
+----------------------------------+-----
+ field_revision_field_deen_from_y |   1
+(1 row)
+
+           ?column?           | cnt 
+------------------------------+-----
+ field_data_field_deen_from_y |   1
+(1 row)
+
+     ?column?     | cnt 
+------------------+-----
+ cache_admin_menu |   1
+(1 row)
+
+          ?column?          | cnt 
+----------------------------+-----
+ field_data_field_deen_inst |   3
+(1 row)
+
+            ?column?            | cnt 
+--------------------------------+-----
+ field_revision_field_deen_inst |   3
+(1 row)
+
+         ?column?          | cnt 
+---------------------------+-----
+ field_data_field_deen_pic |   3
+(1 row)
+
+  ?column?   | cnt 
+-------------+-----
+ cache_views |  44
+(1 row)
+
+           ?column?            | cnt 
+-------------------------------+-----
+ field_revision_field_deen_pic |   3
+(1 row)
+
+          ?column?          | cnt 
+----------------------------+-----
+ field_data_field_deen_to_y |   1
+(1 row)
+
+            ?column?            | cnt 
+--------------------------------+-----
+ field_revision_field_deen_to_y |   1
+(1 row)
+
+          ?column?          | cnt 
+----------------------------+-----
+ field_data_field_envt_date |   1
+(1 row)
+
+            ?column?            | cnt 
+--------------------------------+-----
+ field_revision_field_envt_date |   1
+(1 row)
+
+         ?column?          | cnt 
+---------------------------+-----
+ field_data_field_location |   1
+(1 row)
+
+           ?column?            | cnt 
+-------------------------------+-----
+ field_revision_field_location |   1
+(1 row)
+
+    ?column?     | cnt 
+-----------------+-----
+ cache_bootstrap |   5
+(1 row)
+
+        ?column?         | cnt 
+-------------------------+-----
+ field_data_field_f_name | 114
+(1 row)
+
+          ?column?           | cnt 
+-----------------------------+-----
+ field_revision_field_f_name | 114
+(1 row)
+
+  ?column?   | cnt 
+-------------+-----
+ cache_block |   0
+(1 row)
+
+        ?column?         | cnt 
+-------------------------+-----
+ field_data_field_l_name | 114
+(1 row)
+
+            ?column?            | cnt 
+--------------------------------+-----
+ field_data_field_lnk_sub_title |   2
+(1 row)
+
+          ?column?           | cnt 
+-----------------------------+-----
+ field_revision_field_l_name | 114
+(1 row)
+
+            ?column?            | cnt 
+--------------------------------+-----
+ field_data_field_ref_link_type |  59
+(1 row)
+
+              ?column?              | cnt 
+------------------------------------+-----
+ field_revision_field_ref_link_type |  59
+(1 row)
+
+            ?column?            | cnt 
+--------------------------------+-----
+ field_revision_field_disp_side |  14
+(1 row)
+
+  ?column?  | cnt 
+------------+-----
+ cache_path | 170
+(1 row)
+
+       ?column?        | cnt 
+-----------------------+-----
+ field_data_field_duty |  21
+(1 row)
+
+         ?column?          | cnt 
+---------------------------+-----
+ field_revision_field_duty |  21
+(1 row)
+
+         ?column?          | cnt 
+---------------------------+-----
+ field_data_field_link_url |   2
+(1 row)
+
+          ?column?          | cnt 
+----------------------------+-----
+ field_data_field_duty_desc |  61
+(1 row)
+
+            ?column?            | cnt 
+--------------------------------+-----
+ field_revision_field_duty_desc |  61
+(1 row)
+
+  ?column?   | cnt 
+-------------+-----
+ cache_field | 248
+(1 row)
+
+              ?column?              | cnt 
+------------------------------------+-----
+ field_revision_field_lnk_sub_title |   2
+(1 row)
+
+           ?column?            | cnt 
+-------------------------------+-----
+ field_revision_field_link_url |   2
+(1 row)
+
+       ?column?       | cnt 
+----------------------+-----
+ field_data_field_fax |  63
+(1 row)
+
+         ?column?         | cnt 
+--------------------------+-----
+ field_revision_field_fax |  63
+(1 row)
+
+        ?column?        | cnt 
+------------------------+-----
+ field_data_field_hours |  57
+(1 row)
+
+          ?column?          | cnt 
+----------------------------+-----
+ field_revision_field_hours |  57
+(1 row)
+
+        ?column?        | cnt 
+------------------------+-----
+ field_data_field_phone |  79
+(1 row)
+
+           ?column?            | cnt 
+-------------------------------+-----
+ field_data_field_room_details |  77
+(1 row)
+
+          ?column?          | cnt 
+----------------------------+-----
+ field_revision_field_phone |  79
+(1 row)
+
+         ?column?          | cnt 
+---------------------------+-----
+ field_data_field_ppl_duty |  23
+(1 row)
+
+           ?column?            | cnt 
+-------------------------------+-----
+ field_revision_field_ppl_duty |  23
+(1 row)
+
+             ?column?              | cnt 
+-----------------------------------+-----
+ field_revision_field_room_details |  77
+(1 row)
+
+       ?column?       | cnt 
+----------------------+-----
+ field_data_field_url |  59
+(1 row)
+
+         ?column?         | cnt 
+--------------------------+-----
+ field_revision_field_url |  59
+(1 row)
+
+         ?column?          | cnt 
+---------------------------+-----
+ field_data_field_new_page |  59
+(1 row)
+
+  ?column?   | cnt 
+-------------+-----
+ cache_rules |   3
+(1 row)
+
+           ?column?            | cnt 
+-------------------------------+-----
+ field_revision_field_new_page |  59
+(1 row)
+
+     ?column?      | cnt 
+-------------------+-----
+ ckeditor_settings |   4
+(1 row)
+
+       ?column?        | cnt 
+-----------------------+-----
+ ckeditor_input_format |   3
+(1 row)
+
+ ?column? | cnt 
+----------+-----
+ wysiwyg  |   5
+(1 row)
+
+   ?column?   | cnt 
+--------------+-----
+ wysiwyg_user |   0
+(1 row)
+
+           ?column?            | cnt 
+-------------------------------+-----
+ field_revision_field_committe |   0
+(1 row)
+
+        ?column?        | cnt 
+------------------------+-----
+ field_data_field_title | 102
+(1 row)
+
+          ?column?          | cnt 
+----------------------------+-----
+ field_revision_field_title | 102
+(1 row)
+
+         ?column?          | cnt 
+---------------------------+-----
+ field_data_field_committe |   0
+(1 row)
+
+  ?column?  | cnt 
+------------+-----
+ cache_page |  47
+(1 row)
+
+       ?column?        | cnt 
+-----------------------+-----
+ field_data_field_dep2 |  10
+(1 row)
+
+         ?column?          | cnt 
+---------------------------+-----
+ field_revision_field_dep2 |  10
+(1 row)
+
+         ?column?         | cnt 
+--------------------------+-----
+ field_data_field_on_page |  14
+(1 row)
+
+           ?column?           | cnt 
+------------------------------+-----
+ field_revision_field_on_page |  14
+(1 row)
+
